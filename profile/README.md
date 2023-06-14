@@ -1,6 +1,6 @@
 ## gm, this is OpenDive 👋
 
-![Alt text](https://github.com/OpenDive/.github-private/blob/cdcb2922afe67b801a5fac7338406115412802d9/profile/opendive-team-bg.png)
+![Alt text](https://github.com/OpenDive/.github/blob/main/profile/opendive-team-bg.png)
 
 ### WE ARE WEB3 NATIVE
 Born in the blockchain, forged in a Bitcoin transaction.   
