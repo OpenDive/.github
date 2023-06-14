@@ -36,5 +36,5 @@ We're proud contributors to open-source software. Our most recent developments i
 5. **Aptos Unity SDK** 
 6. **Aptos Swift SDK**
 
-Thanks for visiting OpenDive. Feel free to explore our projects and contribute. Let's dive into the future of Web3 gaming together! 🤝
+Thanks for visiting OpenDive. Feel free to explore our projects and contribute. Let's dive into the future of Web3 gaming together! LFG 🤝
 
