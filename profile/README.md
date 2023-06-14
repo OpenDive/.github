@@ -12,7 +12,7 @@ Our core focus in the web3 space is **gaming** and **immersive experiences**. Al
 As early pioneers in the cryptocurrency space, we believe in a multi-chain world and have dabbled in various ecosystems -- from developing client facing applications, hacking projects, contributing open source, or internally supporting ecosystems to achieve their goals.
 
 ### BUT, WITH A DIVERSE BACKGROUND
-We are published academic researchers, working on the fields of robotics, telepresence, IoT, blockchain and AI.
+We are academic researchers with published research, working on the fields of robotics, telepresence, IoT, blockchain and AI.
 
 ### HOW WE ARE STRUCTURED
 We are composed of 3 teams, that focus on developing our own IP, working with our venture partners, and developing gaming related infrastructure. Furthermore, we are actively investing across the industry in all things gaming and social.
@@ -23,10 +23,14 @@ We are developing the following IP:
 2. Dargo's Arena
 3. Mayhem League
 
-### ON THE VENTURE SIDE
-
 ### ON INFRASTRUCTURE
-
+Most recently, we are the developers of the following open source software:
+1. Substrate Unity SDK
+2. Substrate Swift SDK
+3. Sui Unity SDK 
+4. Sui Swift SDK
+5. Aptos Unity SDK
+6. Aptos Swift SDK
 <!--
 
 **Here are some ideas to get you started:**
