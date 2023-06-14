@@ -19,7 +19,7 @@ We're organized into 3 teams, each focusing on different aspects of our mission:
 
 We're also active investors 💰 in all things gaming and social.
 
-## 🎲 In Gaming
+## 🎮 In Gaming
 We're currently developing the following IPs:
 
 1. **OpenEra** 🏰
