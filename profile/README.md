@@ -1,4 +1,4 @@
-## Good morning, Welcome to OpenDive! 🎮💎🚀👋
+## GM, Welcome to OpenDive! 🎮💎🚀👋
 
 ![OpenDive Team](https://github.com/OpenDive/.github/blob/main/profile/opendive-team-bg.png)
 
