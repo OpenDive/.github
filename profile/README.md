@@ -1,43 +1,40 @@
-## gm, this is OpenDive 👋
+## Good morning, Welcome to OpenDive! 🎮💎🚀👋
 
-![Alt text](https://github.com/OpenDive/.github/blob/main/profile/opendive-team-bg.png)
+![OpenDive Team](https://github.com/OpenDive/.github/blob/main/profile/opendive-team-bg.png)
 
-### WE ARE WEB3 NATIVE
-Born in the blockchain, forged in a Bitcoin transaction.   
+## 🔗 We are Web3 Native 
+Born in the blockchain, and forged in a Bitcoin transaction, we've been part of the web3 space since its early days in 2011. We specialize in **gaming** 🕹️ and **immersive experiences** 🌌, though you might find us dabbling in blockchain + IoT and human-computer interaction too. 
 
-Our team members made their first steps in the space in 2011, and officially in 2012.   
-Our core focus in the web3 space is **gaming** and **immersive experiences**. Although, you may find a few publications related to blockchain + IoT and human-computer interaction work in web3.   
+**We are blockchain agnostic** 🌐. We've journeyed through various ecosystems, developing client-facing applications, contributing to open-source projects, and supporting ecosystems to achieve their goals.
 
-**We are blockchain agnostic**.   
-As early pioneers in the cryptocurrency space, we believe in a multi-chain world and have dabbled in various ecosystems -- from developing client facing applications, hacking projects, contributing open source, or internally supporting ecosystems to achieve their goals.
+## 📚 But, We're also Scholars
+Our team includes academic researchers 🎓 with published research in diverse fields like robotics, telepresence, IoT, blockchain, and AI.
 
-### BUT, WITH A DIVERSE BACKGROUND
-We are academic researchers with published research, working on the fields of robotics, telepresence, IoT, blockchain and AI.
+## 🏗️ Our Structure
+We're organized into 3 teams, each focusing on different aspects of our mission: 
 
-### HOW WE ARE STRUCTURED
-We are composed of 3 teams, that focus on developing our own IP, working with our venture partners, and developing gaming related infrastructure. Furthermore, we are actively investing across the industry in all things gaming and social.
+1. **IP Development**: Where we craft our own unique properties.
+2. **Venture Partnerships**: Collaborating with partners on exciting ventures.
+3. **Infrastructure Development**: Building the infrastructure for gaming.
 
-### IN GAMING
-We are developing the following IP:
-1. OpenEra
-2. Dargo's Arena
-3. Mayhem League
+We're also active investors 💰 in all things gaming and social.
 
-### ON INFRASTRUCTURE
-Most recently, we are the developers of the following open source software:
-1. Substrate Unity SDK
-2. Substrate Swift SDK
-3. Sui Unity SDK 
-4. Sui Swift SDK
-5. Aptos Unity SDK
-6. Aptos Swift SDK
-<!--
+## 🎲 In Gaming
+We're currently developing the following IPs:
 
-**Here are some ideas to get you started:**
+1. **OpenEra** 🏰
+2. **Dargo's Arena** ⚔️
+3. **Mayhem League** 🥊
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ⚙️ On Infrastructure
+We're proud contributors to open-source software. Our most recent developments include:
+
+1. **Substrate Unity SDK** 
+2. **Substrate Swift SDK** 
+3. **Sui Unity SDK**
+4. **Sui Swift SDK** 
+5. **Aptos Unity SDK** 
+6. **Aptos Swift SDK**
+
+Thanks for visiting OpenDive. Feel free to explore our projects and contribute. Let's dive into the future of Web3 gaming together! 🤝
+
