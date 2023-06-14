@@ -13,7 +13,7 @@ Our team includes academic researchers 🎓 with published research in diverse f
 ## 🏗️ Our Structure
 We're organized into 3 teams, each focusing on different aspects of our mission: 
 
-1. **IP Development**: Where we craft our own unique properties.
+1. **IP Development**: Where we craft our own unique creative intellectual property (games).
 2. **Venture Partnerships**: Collaborating with partners on exciting ventures.
 3. **Infrastructure Development**: Building the infrastructure for gaming.
 
